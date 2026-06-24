@@ -20,7 +20,7 @@ locations we own and operate:
 - **Updates** ads in place (budget, schedule, creative repoint; pause/resume).
 - **Deletes** ad sets/ads when a location opts out.
 
-A single campaign can span 100–300 ad sets, 200–600 ad creatives, and 200–500 ads,
+A single campaign can span 100–300 ad sets, 200–600 ad creatives, and 200–600 ads,
 which is why higher rate limits (Advanced Access) are required.
 
 ## Files
